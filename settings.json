@@ -6,8 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "surgo.aternos.me
-",
+    "ip": "surgo.aternos.me",
     "port":45749 ,
     "version": "",
     "try-creative": false
